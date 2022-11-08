@@ -14,7 +14,7 @@ export class Lock {
   }
 
   public isBatteryLow(): boolean {
-    return this.batteryStatus < 50;
+    return this.batteryStatus < 25;
   }
 
   public static fromJson(json): Lock {
