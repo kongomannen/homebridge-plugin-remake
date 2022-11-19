@@ -9,10 +9,10 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/GlueHome/homebridge-plugin.git"
+    "url": "git://github.com/kongomannen/homebridge-plugin-remake.git"
   },
   "bugs": {
-    "url": "https://github.com/GlueHome/homebridge-plugin/issues"
+    "url": "https://github.com/kongomannen/homebridge-plugin-remake/issues"
   },
   "engines": {
     "node": ">=10.17.0",
