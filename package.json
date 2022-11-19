@@ -1,10 +1,10 @@
 {
-  "displayName": "GlueHome Homebridge Plugin",
-  "name": "@gluehome/homebridge-gluehome",
-  "version": "0.2.0",
+  "displayName": "GlueHome Homebridge Plugin - Remake",
+  "name": "@kongomannen/homebridge-gluehome-remake",
+  "version": "0.2.1",
   "description": "Homebridge plugin to integrate with GlueHome ecosystem.",
   "author": {
-    "name": "GlueHome"
+    "name": "kongomannen"
   },
   "license": "Apache-2.0",
   "repository": {
